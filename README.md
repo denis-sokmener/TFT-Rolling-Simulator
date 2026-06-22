@@ -31,13 +31,13 @@ git clone https://github.com/denis-sokener/tft-reroll-simulator.git
 
 Navigate to the project directory and execute the script:
 
-```bash
+
 cd tft-reroll-simulator
 python test.py
 
 Example Terminale Output
 
-```bash
+
 Enter your gold amount: 40
 Your gold: 40. Press R to reroll, press Q to quit.
 Your choice: R
