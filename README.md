@@ -37,7 +37,7 @@ cd tft-reroll-simulator
 python test.py
 ```
 
-Example Terminale Output
+🎲 Example Terminale Output
 
 ```bash
 Enter your gold amount: 40
@@ -45,3 +45,12 @@ Your gold: 40. Press R to reroll, press Q to quit.
 Your choice: R
 ['2', '3', '4', '1', '2']
 ```
+
+## 🔮 Future Features (Roadmap)
+
+Here are some planned enhancements and features to elevate the simulation's complexity and analytical value:
+
+- **Level-Based Probability Scaling:** Dynamically adjust pool percentages based on a user-defined player level (e.g., Level 7 vs. Level 8 rolling odds).
+- **Shop Pool Depletion (Bench Tracking):** Simulate a shared champion pool where buying or holding specific units reduces their probability in subsequent rolls.
+- **Data Logging & Analytics:** Export session roll data to a CSV/JSON format for statistical analysis, tracking average gold spent to hit specific tier units.
+- **Graphical User Interface (GUI):** Transition the simulation from a terminal interface to a clean UI web application using frameworks like Streamlit or Tkinter.
