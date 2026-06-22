@@ -34,17 +34,27 @@ python test.py
 Example Terminal Output
 
 Enter your gold amount: 40
+
 Your gold: 40. Press R to reroll, press Q to quit.
+
 Your choice: R
+
 ['2', '3', '4', '1', '2']
+
 Your gold: 38. Press R to reroll, press Q to quit.
+
 Your choice: R
+
 ['3', '4', '1', '2', '2']
+
 Your gold: 36. Press R to reroll, press Q to quit.
+
 Your choice: Q
+
 Game over. Your remaining gold: 36
 
 Development Focus
+
 This project was built to practice core programming fundamentals, specifically:
 
 Controlling program flow using while loops and nested if/elif statements.
