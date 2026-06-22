@@ -40,9 +40,12 @@ python test.py
 
 ```bash
 Enter your gold amount: 40
+
 Your gold: 40. Press R to reroll, press Q to quit.
+
 Your choice: R
-['2', '3', '4', '1', '2']
+
+['2', '3', '4', '1', '2'] ## Cost of champions
 ```
 
 ## 🔮 Future Features (Roadmap)
