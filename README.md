@@ -22,6 +22,6 @@ Libraries: random (built-in)
 
 💻 How to Run
 
-Clone this repository:
-
-bashgit clone https://github.com/yourusername/tft-reroll-simulator.git
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/denis-sokener/tft-reroll-simulator.git
