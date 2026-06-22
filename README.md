@@ -1,5 +1,4 @@
 **🎲 TFT Reroll (Shop Refresh) Simulator**
-
 This repository features a Python-based Teamfight Tactics (TFT) shop reroll simulator, designed to replicate the core economic mechanics of the game directly within your terminal. Built with a focus on statistical accuracy, the simulator utilizes realistic weighted probabilities to mirror high-level shop dynamics, ensuring each refresh reflects the true odds of hitting your desired champions.
 Users start by defining their gold pool and can execute continuous rerolls, with each action dynamically deducting the standard two-gold cost. The tool incorporates a robust game loop and comprehensive error handling via try-except blocks, preventing crashes from invalid inputs and delivering a seamless user experience. Whether you are analyzing late-game pivot odds or just simulating the tension of draining your gold for that crucial final upgrade, this project serves as a practical exploration of Python logic, probability management, and solid foundational algorithmic thinking skills.
 
@@ -37,7 +36,7 @@ cd tft-reroll-simulator
 python test.py
 ```
 
-**🎲 Example Terminale Output**
+**🎲 Example Terminal Output**
 
 ```bash
 Enter your gold amount: 40
